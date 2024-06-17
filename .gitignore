@@ -36,6 +36,9 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# Folders that include data
+Data/*
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
